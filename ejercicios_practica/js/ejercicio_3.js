@@ -15,3 +15,11 @@ const numero2 = -2;
 //        --> En caso afirmativo imprima en pantalla "Resp=1"
 //        --> En caso negativo imprima en pantalla   "Resp=2"
 
+if (numero1 > 5) {
+    console.log(numero1 + " es mayor a 5");
+} 
+ if (numero2 < -2 ) {
+    console.log("Resp=1")
+} else {
+    console.log("Resp=2")
+}
